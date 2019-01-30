@@ -1,1 +1,1 @@
-# project_ideas
+# Project Ideas
