@@ -4,7 +4,7 @@ An assortment of project ideas organised into different categories (depending on
 
 # Categories
 
-App
+## App
 
 Five Steps - Stop overthinking tasks by only setting five steps to complete it, or less.
 
