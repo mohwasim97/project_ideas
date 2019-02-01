@@ -41,3 +41,5 @@ Royal Random - Bored out of your mind but can't decide whether you want to watch
 Don't Bother - "Forgot" you had an assignment due in the next four hours and you haven't started. Shut down all sources of distractions automatically and get to work.
 
 eReciept - Take photos of your receipts and have them saved on your phone so you dont have to worry about them being ruined in the washing machine.
+
+# Bot
