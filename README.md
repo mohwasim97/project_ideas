@@ -153,3 +153,31 @@ Audio Player - Set up your Audio Player the way you like it, by making it yourse
 Personal Computer - The best way to learn how a Computer works is by making and programming one yourself.
 
 Automated Pet Feeder - Coming home late and haven't fed your pet yet? Create and program a feeder to automatically do this for you at set times.
+
+# VR/AR
+
+Chatroom (VR) -Create a space for people to hang out and chat, with thier own custom appearance.
+
+Destroy everything (VR) - Release all your anger out in a room where everything can be destroyed into millions of pieces.
+
+Recreate a memory/dream (VR) -Relieve a nostalgic moment in your life by bringing it into reality, virtual reality.
+
+Build your house (VR) - Walk through your home and add things which you would like to have or improve upon.
+
+Fight your fears (VR) - Expose yourself to the things you are afraid of and conquer those fears once and for all.
+
+Stunts (VR) - Always wanted to take part performing stunts in action movies? You won't have to worry about breaking any bones in your body.
+
+Anti-Gravity (VR) - Simulate the feeling of being in Space, even leaping on another planet.
+
+Escape Room (VR) - Create a room, with a theme of your choice, designing it to make it challenging but not impossible to beat.
+
+Room Decorating (AR) - Be able to see items within the real confines of your home.
+
+Dressing Room (AR) - Allow yourself to see how clothes and accessories look on your body before you buy.
+
+Racetrack (AR) - Add obstacles into your racetrack and set the cars off around your room.
+
+Item analyser (AR) - Scan an item to give you details of it, including the best deals you can get.
+
+Indoor Zoo (AR) - Bring the Lions and Giraffes into your living room.
