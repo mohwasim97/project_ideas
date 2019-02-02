@@ -44,11 +44,9 @@ eReciept - Take photos of your receipts and have them saved on your phone so you
 
 # Bot
 
-Gif Bot
-Looking for the perfect gif to use in your group chat? Program a Gif Bot to retrieve the right one.
+Gif Bot - Looking for the perfect gif to use in your group chat? Program a Gif Bot to retrieve the right one.
 
-Support Bot
-Having a Support Bot will be useful in times where your motivation in lacking and you need a boost of encouragement.
+Support Bot - Having a Support Bot will be useful in times where your motivation in lacking and you need a boost of encouragement.
 
 Joke Bot - Create your own personal comedian.
 
