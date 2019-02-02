@@ -71,3 +71,47 @@ Horoscope Bot - Discover what the day, week or even year has in store for you.
 Note Bot - Store and organise notes which can be called upon when needed to test yourself.
 
 Relocate Bot - Take the effort out of number crunching for your next move with the relocation bot.
+
+# Games
+
+Simulator - Simulate literally anything from your life, like your commute to work. Points for making it as funny as possible.
+
+Arcade Classic Remake - Recreate the arcade classic games immortalised in history like Pac-Man and Tetris.
+
+Remaster Flash Games - Take the iconic flash games from your childhood and recreate them but apply your own flair to it.
+
+Top trivia - Program a game to test people's knowledge on different subjects.
+
+Memory game - Struggling to remember what you had for breakfast? Make a memory game to help.
+
+Text Based (The Oregon Trail) - If your not looking to make a game with fancy graphics, try programming a text based game. One example is recreating The Oregon Trail.
+
+Recreating a Movie/Book - Speaking of recreating try turning your favourite movie scenes and book chapters interactive.
+
+Board Game - Connect with your family again (via Wi-Fi) and spend an hour or two playing your coded board game, which is now gathering dust in the attic.
+
+Demolition Derby - Try programming a venue with all the cars you have wanted to destroy and crash into them.
+
+I Spy - It helped pass the time of those long car journeys but this time your making it, for fun.
+
+Casino table games - Code your favourite gambling games, with our suggestion for beginners first being Twenty-One (Blackack).
+
+Battle Royale - The new trend in gaming has taken over, try programming your own spin off to the masively popular genre.
+
+Maze Escape - Create a maze as simple or as complex as you want it to be, and try getting out of it under timed conditions.
+
+Sliding Picture - Code a jigsaw where you take the photo, scramble it, and try to piece back together.
+
+Enemy Dodger - Spawn enemies on the screen and get your character to avoid them. Make the enemies vary in size shape and their movement patterns.
+
+Jail Break - Life without parole? Not if there is something you can do about it.
+
+Hospitality hotel - Become the owner of your very own hotel and serve the needs of your customers. The added benefit is you decide if they are always right. I'm going to assume that's a no.
+
+Fast draw - Only one will survive. Program a game to test speed and timing of who gets to their gun first. Hopefully it doesn't jam.
+
+Capture the base - Create your own take on the classic capture the flag (CTF) game mode.
+
+Rhythm match - Have users press a corresponding key/button to match the beat of a song.
+
+Battle tanks - Take two gigantic weaponised vehicles and make them battle.
