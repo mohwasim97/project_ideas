@@ -181,3 +181,35 @@ Racetrack (AR) - Add obstacles into your racetrack and set the cars off around y
 Item analyser (AR) - Scan an item to give you details of it, including the best deals you can get.
 
 Indoor Zoo (AR) - Bring the Lions and Giraffes into your living room.
+
+# Website
+
+Developer Diaries - Keep a diary as you progress in your journey of becoming a developer. Create a space to journal what you have learn, struggled with and success you have had.
+
+Partner Up - Struggling to fullfill your new years resolutions? Find a partner with the same goal to work together and hold each other accountable.
+
+Course Library - Create your own platform to host online courses (even your own).
+
+Portfolio - Display your work or even information about you and your life.
+
+Distraction Destroyer - Shut down all things distracting and focus on your work.
+
+Satisfying Stream - Feeling down or stressed? Create a stream of satisfying videos to make your day a little better.
+
+101 Distractions - When you don't have work to do, find many things to fill your time.
+
+Web Activity Tracker - Discover how much time you actually spend on the internet, and if you are productive as you think you are.
+
+Fake News Detector - Don't let yourself and others be fooled, find out if a news article really is as turth as it claims.
+
+Hobby News - Create a site for the latest developments/updates on your favourite past time.
+
+Monthly Bundle - Program a site to find users preference for a certain product and tailor it to their requirements.
+
+Which Programming Language - Create a quiz to find out what programming language users will need to make their creations.
+
+Dream Job Board - Compile what you would like in your next career step with the dream job board.
+
+Creative EU Cookie Reminders - Spice up the design and functionality of the cookie reminders found on nearly every new website you visit.
+
+Fake Hacker - Trick your friends and family you are a proficient hacker with lots of fast green text running down a black background. Just don't try to replicate creating a GUI in Visual Basic.
