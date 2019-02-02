@@ -115,3 +115,41 @@ Capture the base - Create your own take on the classic capture the flag (CTF) ga
 Rhythm match - Have users press a corresponding key/button to match the beat of a song.
 
 Battle tanks - Take two gigantic weaponised vehicles and make them battle.
+
+# Hardware
+
+Motion Detector - Find out if your pet is trying to enter the cupboard for extra treats.
+
+Electric Skateboard - Ride in style.
+
+Spy Recorder - Create your own security camera. Bonus points for not making it look like traditional one.
+
+Home Automation - Configure everything in your house from lights to the thermostat with the touch of a button.
+
+LED Fan - Display messages in the dark on your fan.
+
+Electronic Keyboard - Create your very own instrument and assemble your own band.
+
+LED Traffic Lights - Simple project to program your own traffic light system.
+
+Robot - Create and code a miniature robot to possibly get you a beer.
+
+Smart Mirror - Transfer your Smartphone onto your bedroom mirror. It's the first thing you look at in the morning.
+
+Personal Assistant -Inspired by Amazon echo and Google Home program your own personal assistant to play you music, inform you of traffic developments and more.
+
+Light Saber - Program your favourite Light Saber and challenge your friends to a duel. Lights off, of course.
+
+Retro Console - Bring back your cherished childhood gaming moments into the present with this project.
+
+Media Library - Host your personal media library on your TV.
+
+Radio Broadcast - Set up your own radio broadcasting service and spread your message.
+
+IRC Web Server - Create your own personal and secure server to chat to your friends.
+
+Audio Player - Set up your Audio Player the way you like it, by making it yourself.
+
+Personal Computer - The best way to learn how a Computer works is by making and programming one yourself.
+
+Automated Pet Feeder - Coming home late and haven't fed your pet yet? Create and program a feeder to automatically do this for you at set times.
