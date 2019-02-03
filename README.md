@@ -215,3 +215,7 @@ Creative EU Cookie Reminders - Spice up the design and functionality of the cook
 Fake Hacker - Trick your friends and family you are a proficient hacker with lots of fast green text running down a black background. Just don't try to replicate creating a GUI in Visual Basic.
 
 Drafty - Display your work in progress.
+
+UIFI - Show your creative designs.
+
+Chart it - Take a dataset and turn it into something visually pleasing.
