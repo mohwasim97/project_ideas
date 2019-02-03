@@ -200,7 +200,7 @@ Satisfying Stream - Feeling down or stressed? Create a stream of satisfying vide
 
 Web Activity Tracker - Discover how much time you actually spend on the internet, and if you are productive as you think you are.
 
-Fake News Detector - Don't let yourself and others be fooled, find out if a news article really is as turth as it claims.
+Fake News Detector - Don't let yourself and others be fooled, find out if a news article really is as true as it claims.
 
 Hobby News - Create a site for the latest developments/updates on your favourite past time.
 
